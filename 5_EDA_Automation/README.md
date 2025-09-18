@@ -1,5 +1,7 @@
 # Exploratory Data Analysis Automation with Feature Transformation and Creation
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://edaauto.streamlit.app/)
+
 ## Project Overview
 This project automates and enhances **Exploratory Data Analysis (EDA)** by providing an interactive Streamlit web application.  
 It enables users to upload datasets and perform comprehensive data profiling, including:
