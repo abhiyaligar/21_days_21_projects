@@ -1,5 +1,7 @@
 # Outlier Detection Web App
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://abhiyaligar-21-days-21-pr-6-outlier-detection-web-appapp-s9pbby.streamlit.app/)
+
 A simple and interactive web application built with Streamlit for detecting outliers in your datasets using machine learning.
 
 ## Overview
