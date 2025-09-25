@@ -1,9 +1,7 @@
 import streamlit as st
 import requests
-import os
-from dotenv import load_dotenv
 
-load_dotenv()
+
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Load system prompt from prompt.txt
@@ -32,7 +30,7 @@ user_api_key_input = st.text_input(
 )
 
 # Determine which API key to use
-api_key = user_api_key_input.strip() or os.getenv("OPENROUTER_API_KEY")
+api_key = user_api_key_input.strip()
 
 if not api_key:
     st.warning("Please enter an API key above or set OPENROUTER_API_KEY in environment.")
