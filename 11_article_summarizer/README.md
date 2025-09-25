@@ -1,5 +1,8 @@
 # Article Summarizer Web App
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://summarizeart.streamlit.app/)
+
+
 A simple Streamlit web application that fetches and summarizes online articles using the [newspaper3k](https://newspaper.readthedocs.io/en/latest/) library for article extraction and Hugging Face’s T5 transformer model for abstractive summarization.
 
 ## Features
