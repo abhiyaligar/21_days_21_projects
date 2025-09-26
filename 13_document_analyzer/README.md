@@ -1,5 +1,7 @@
 # Multiple Model-Based Document Analyzer with OpenRouter  
 
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://docanaly.streamlit.app/)
+
 This project is a **Streamlit web application** that allows users to upload PDF or TXT documents and analyze them with multiple AI models available on **OpenRouter**. The application supports **named entity recognition (NER)**, **document summarization**, and **sentiment analysis**, all powered by large language models (LLMs).  
 
 ---
